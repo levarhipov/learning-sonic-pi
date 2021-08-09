@@ -1,5 +1,4 @@
 # MARY HAD A LITTLE LAMB
-# comment
 
 use_bpm 75
 
