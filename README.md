@@ -7,4 +7,5 @@ I'm learning to program with **Sonic Pi**
 * [Twinkle Twinkle](03%20Twinkle%20Twinkle.rb) the little star on a night sky and looks like a diamond in the sky
 * [Live Loop Drum Beat](04%20Live%20Loop%20Drum%20Beat.rb) in this file are playing: Kick, Snare and Hi Hat
 * [Live Loop Dance Track](05%20Live%20Loop%20Dance%20Track.rb) it has the electronic music
-* [Mary Had A Little Lamb](06%20Mary%20Had%20A%20Little%20Lamb.rb) Mary had a little lamb
+* [Mary Had A Little Lamb](06%20Mary%20Had%20A%20Little%20Lamb.rb) in this file rae playing: Kick, Snare, Hi-Hat, BackGround and song.
+* [live_loop 4 times](07%20live_loop%204%20times.rb) in times are playing: sine, hollow, blade and mod_sine synth. Second live_loop play's: kick, snare and hi-hat.
